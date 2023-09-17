@@ -2,7 +2,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/adarsh-wase/)
 [![Stack Overflow](https://img.shields.io/badge/stack%20overflow-FE7A16)](https://stackoverflow.com/users/14425501/adarsh-wase)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836)](adarshwase22@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836)](mailto:adarshwase22@gmail.com)
 
 ---
 
