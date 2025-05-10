@@ -8,8 +8,6 @@
 
 ## 📚 About Me
 
-I'm a passionate student at IIM Indore with a deep interest in Machine Learning. I'm enthusiastic about combining code and creativity to solve complex problems. When I'm not coding, you'll often find me engrossed in a good book or immersed in a challenging game.
-
 ---
 
 ## 🚀 Projects
